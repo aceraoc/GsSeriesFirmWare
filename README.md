@@ -1,2 +1,3 @@
 # GsSeriesFirmWare
-gs系列键盘固件，详见各个分支固件
+gs3000系列键盘固件
+v1.0 支持via改建，ESC_LED翻转功能
