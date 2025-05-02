@@ -8,30 +8,46 @@
     },
     "layouts": {
         "labels": [
-            "Normal Backspace",
+            [
+                "Backspace",
+                "1U",
+                "2U"
+            ],
             [
                 "Basic ENTER",
                 "ISO ENTER",
                 "ANSI ENTER",
                 "ANSI BIG ASS ENTER"
             ],
-            "Normal NumPad Plus",
-            "ANSI Left Shift",
+            [
+                "NumPad Plus",
+                "1U",
+                "2U"
+            ],
+            [
+                "Left Shift",
+                "1.25U",
+                "2.25U"
+            ],
             [
                 "Right Shift",
                 "Just Layout No Use",
-                "Normal Right Shift",
-                "Split Right Shift"
+                "2U",
+                "1U"
             ],
             [
-                "Bottom Row",
+                "Bottom Row Space",
                 "6.25U",
                 "7U",
                 "7U With 1U",
                 "10U",
                 "10U With 1U"
             ],
-            "Normal NumPad Zero"
+            [
+                "NumPad Zero",
+                "1U",
+                "2U"
+            ]
         ],
         "keymap": [
             [
